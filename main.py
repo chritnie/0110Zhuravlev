@@ -10,7 +10,7 @@ from sympy import *  # Что это означает? IT'S IMPORT BIBLYOTEK BRO
 k, T, C, L = symbols('k T C L')
 
 # 1 способ
-C_ost = 40000
+C_ost = 100000
 am_lst = []       
 c_ost_lst = []   
 years_method1 = 5
